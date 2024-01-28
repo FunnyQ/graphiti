@@ -12,3 +12,6 @@ spec/.rspec-examples
 spec/dummy/log/*
 *~
 .vscode/
+
+# ignore jetbrains IDE files
+.idea/
